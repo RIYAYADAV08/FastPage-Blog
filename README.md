@@ -5,7 +5,6 @@ A fast, accessible blog built with **Next.js (App Router)** and **Tailwind CSS**
 **Live demo:** [fast-page-blog.vercel.app](https://fast-page-blog.vercel.app)
 **Source code:** [github.com/RIYAYADAV08/FastPage-Blog](https://github.com/RIYAYADAV08/FastPage-Blog)
 
-![Home page](./screenshots/home.png)
 
 ## Features
 
@@ -111,3 +110,4 @@ components/                 PostCard, CategoryNav
 
 **Riya Yadav**
 [LinkedIn](https://www.linkedin.com/in/riyayadav0803) | [GitHub](https://github.com/RIYAYADAV08) | riya080305@gmail.com
+
