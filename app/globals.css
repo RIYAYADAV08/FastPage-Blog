@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    background: #F8F8FB;
+    color: #1B1B2F;
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply font-sans antialiased;
+  }
+  :focus-visible {
+    outline: 3px solid #5B3DF5;
+    outline-offset: 2px;
+  }
+  /* headings in articles stay clear of the sticky header when jumped to */
+  .prose h2 {
+    scroll-margin-top: 5rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
