@@ -3,6 +3,7 @@
 A fast, accessible blog built with **Next.js (App Router)** and **Tailwind CSS**. Articles are written as Markdown files and built into static pages (SSG), with the SEO setup a real client website needs.
 
 **Live demo:** [fast-page-blog.vercel.app](https://fast-page-blog.vercel.app)
+
 **Source code:** [github.com/RIYAYADAV08/FastPage-Blog](https://github.com/RIYAYADAV08/FastPage-Blog)
 
 
